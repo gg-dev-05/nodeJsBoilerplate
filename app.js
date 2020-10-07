@@ -73,5 +73,5 @@ app.get("/register", function (req, res){
 })
 
 app.listen(3000, function () {
-    console.log("Yelp Camp server running on port 3001")
+    console.log("Nodejs server running on port 3000")
 })
